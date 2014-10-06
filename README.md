@@ -1,4 +1,0 @@
-medarametla
-===========
-
-sample repository
